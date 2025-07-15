@@ -1,0 +1,6 @@
+class submitclaim{
+    
+    constructor(page){
+
+    }
+}
